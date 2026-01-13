@@ -55,13 +55,6 @@ The goal of this task is to demonstrate how a React-based UI can interact with a
 
 ---
 
-## Prerequisites
-
-- Node.js (v16+ recommended)
-- Microsoft Word (Desktop – Mac or Windows)
-
----
-
 ## Installation & Run
 
 Install dependencies:
